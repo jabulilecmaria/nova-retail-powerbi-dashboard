@@ -74,3 +74,32 @@ DIVIDE (
     [Total Profit],
     [Total Revenue]
 )
+Previous Year Revenue =
+CALCULATE (
+    [Total Revenue],
+    SAMEPERIODLASTYEAR ( 'Date'[Date] )
+)
+
+YoY Growth % =
+DIVIDE (
+    [Total Revenue] - [Previous Year Revenue],
+    [Previous Year Revenue]
+)
+
+Customer Rank =
+RANKX (
+    ALL ( Customers[CustomerID] ),
+    [Total Revenue],
+    ,
+    DESC,
+    DENSE
+)
+
+Regional Rank =
+RANKX (
+    ALL ( Customers[Region] ),
+    [Total Revenue],
+    ,
+    DESC,
+    DENSE
+)
