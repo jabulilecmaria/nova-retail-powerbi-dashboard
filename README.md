@@ -103,3 +103,32 @@ RANKX (
     DESC,
     DENSE
 )
+ ## Business Insights
+
+### Key Findings
+
+1. **Strong overall profitability**
+   
+   Nova Retail Group generated R16.88 million in total revenue and R5.92 million in total profit, resulting in a 35.05% profit margin.
+
+2. **Electronics is the leading revenue category**
+   
+   The Electronics category records the highest revenue among the categories shown on the dashboard, making it an important contributor to overall sales performance.
+
+3. **Regional performance differs across the business**
+   
+   The regional ranking shows North ranked 1st, followed by East, South and West. This indicates differences in revenue performance across the four regions.
+
+### Strategic Recommendations
+
+1. **Maintain focus on high-performing product categories**
+   
+   Continue supporting the Electronics category while analysing its products, customers and sales drivers to understand what is contributing to its stronger revenue performance.
+
+2. **Investigate regional performance differences**
+   
+   Examine the lower-ranked regions to identify opportunities to improve sales through targeted promotions, customer engagement and regional sales strategies.
+
+3. **Monitor customer experience alongside sales performance**
+   
+   The dashboard shows an average customer rating of 3.76. Nova Retail Group should monitor customer feedback and identify factors affecting satisfaction while continuing to grow revenue and profitability.
